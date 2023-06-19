@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(void)
 {       puts("\"Programming is like building a multilingual puzzle");
-	retutn (0)
+	returm (0);
 }
