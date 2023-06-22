@@ -3,12 +3,11 @@
  * _abs - completes the absolute value
  * of an interger
  * Description: completes the absolute value
- * @int:
- * input value of an interger
+ * @i: input value of an interger
  *
  * Return: Absolute value.
  */
-int _abs(int);
+int _abs(int i)
 {
 if (i >= 0)
 {
